@@ -43,6 +43,49 @@
     * Run Genymotion
     * run `react-native run-android`
 
+## :arrow_up: dependencies
+
+| Plugin | README |
+| ------ | ------ |
+| @react-native-community/async-storage | -
+@react-native-community/masked-view | -
+@react-native-community/netinfo | -
+apisauce | -
+appcenter | -
+appcenter-analytics | -
+appcenter-crashes | -
+format-json | -
+identity-obj-proxy | -
+instabug-reactnative | -
+lodash | -
+patch-package | -
+postinstall-postinstall | -
+prop-types | -
+querystringify | -
+ramda | -
+react-native-animatable | -
+react-native-awesome-component | -
+react-native-code-push | -
+react-native-config | -
+react-native-device-info | -
+react-native-gesture-handler | -
+react-native-i18n | -
+react-native-iphone-x-helper | -
+react-native-reanimated | -
+react-native-safe-area-context | -
+react-native-screens | -
+react-native-vector-icons | -
+react-navigation | -
+react-navigation-redux-helpers | -
+react-navigation-stack | -
+react-navigation-tabs | -
+react-redux | -
+redux | -
+redux-persist | -
+redux-saga | -
+reduxsauce | -
+seamless-immutable | -
+
 ## :no_entry_sign: Standard Compliant
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
